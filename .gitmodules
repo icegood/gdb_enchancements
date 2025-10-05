@@ -1,0 +1,12 @@
+[submodule "gef"]
+	path = gef
+	url = https://github.com/icegood/gef
+	branch = dev
+[submodule "stl_pretty_printers"]
+	path = gdb_printers__python
+	url = https://github.com/icegood/gdb_printers__python
+	branch = master
+[submodule "stl_pretty_print_marinescu"]
+	path = stl_pretty_printers_marinescu
+	url = https://github.com/icegood/stl_pretty_printers_marinescu
+	branch = master
